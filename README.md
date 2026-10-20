@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://toolsfox.top">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI%20Agent%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%3BPython%20%2F%20Rust%20%2F%20Go%20%2F%20Flutter%3B12%20%E4%B8%AA%20PR%20%E5%B7%B2%E5%90%88%E5%B9%B6%E8%BF%9B%E4%B8%8A%E6%B8%B8%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%3B%E6%AD%A3%E5%9C%A8%E9%80%A0%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%A8%E7%9F%A5%20Agent" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI%20Agent%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%3BPython%20%2F%20Rust%20%2F%20Go%20%2F%20Flutter%3B%E6%8C%81%E7%BB%AD%E4%B8%BA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81%3B%E6%AD%A3%E5%9C%A8%E9%80%A0%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%A8%E7%9F%A5%20Agent" alt="typing" />
   </a>
 </p>
 
@@ -14,26 +14,41 @@
 </p>
 
 - 🔭 在做：个人全知 Agent（数字孪生助理）、[中国互联网编年史](https://toolsfox.top/net-annals/)（Three.js 星河可视化，从 1987 年第一封邮件到今天）
-- 🌱 在学：Rust —— 已经在 [青简输入法](https://github.com/qingjian-team/qingjian) 合并了 5 个 PR
+- 🌱 在学：Rust（练手项目：[青简输入法](https://github.com/qingjian-team/qingjian)，已有多个 PR 被合并）
 - 📫 找我：[博客 toolsfox.top](https://toolsfox.top)
 
 ---
 
+<!-- OSS-PRS:START -->
 <details open>
-<summary><h3>🧩 开源贡献 · 12 个 PR 已合并</h3></summary>
+<summary><h3>🧩 开源贡献 · 21 个 PR 已合并</h3></summary>
 
 | 上游项目 | 我的改动 | PR |
 |---|---|---|
-| celery | 文档：`rate_limit` 与 `countdown`/`eta` 的相互作用 | [#10595](https://github.com/celery/celery/pull/10595) |
-| psycopg | 文档：`sql.Literal` 越界整数字面量会触发顺序扫描 | [#1400](https://github.com/psycopg/psycopg/pull/1400) |
-| black | 测试：平台禁止创建符号链接时跳过对应用例 | [#5390](https://github.com/psf/black/pull/5390) |
-| typeshed | 让 `Protocol` 定义反映运行时行为 | [#16386](https://github.com/python/typeshed/pull/16386) |
-| aiohttp | 修复：`Content-Length` 为 0 时 `read_chunk()` 的行为 | [#13760](https://github.com/aio-libs/aiohttp/pull/13760) |
-| echo | 修复：BodyLimit 中间件可被合规 reader 绕过 | [#3087](https://github.com/labstack/echo/pull/3087) |
-| qingjian | 修复 ×5：词库补全、直角引号、候选窗锚点与阴影（Rust） | [#253](https://github.com/qingjian-team/qingjian/pull/253) [#256](https://github.com/qingjian-team/qingjian/pull/256) [#257](https://github.com/qingjian-team/qingjian/pull/257) [#259](https://github.com/qingjian-team/qingjian/pull/259) [#260](https://github.com/qingjian-team/qingjian/pull/260) |
-| lolPing | 修复：SendInput 时序导致 Alt+click 全局输入卡死（Windows） | [#10](https://github.com/darrenprx/lolPing/pull/10) |
+| lolPing | 设置项：允许文本组合键与自定义触发键共用一个键（修复 #100） | [#101](https://github.com/darrenprx/lolPing/pull/101) |
+| lolPing | feat(emotes): send the chosen effect with the emote | [#92](https://github.com/darrenprx/lolPing/pull/92) |
+| lolPing | feat(emotes): give imported emotes selectable signature effects | [#90](https://github.com/darrenprx/lolPing/pull/90) |
+| lolPing | test(rooms): give the emote cache eviction test room for a busy runner | [#95](https://github.com/darrenprx/lolPing/pull/95) |
+| qingjian | feat(core): 按读音键泛化输入串选择 | [#655](https://github.com/qingjian-team/qingjian/pull/655) |
+| qingjian | feat(learning): 学习数据时间衰减（牛顿冷却） | [#654](https://github.com/qingjian-team/qingjian/pull/654) |
+| qingjian | feat(cli): 从输入日志挖词库缺词 | [#657](https://github.com/qingjian-team/qingjian/pull/657) |
+| lolPing | macOS：修复设置窗口在 Dock 最小化/恢复动画期间侧边栏失去填充 | [#58](https://github.com/darrenprx/lolPing/pull/58) |
+| lolPing | 房间成员之间传输自定义表情的静态图（修复 #49） | [#77](https://github.com/darrenprx/lolPing/pull/77) |
+| qingjian | fix(windows): 候选窗贴上方时避开自身阴影带 | [#260](https://github.com/qingjian-team/qingjian/pull/260) |
+| qingjian | fix(windows): 候选窗锚点折叠到组句起点，残片矩形补回整行 | [#259](https://github.com/qingjian-team/qingjian/pull/259) |
+| qingjian | fix(core): 全角标点下 shift+方括号出直角引号 | [#253](https://github.com/qingjian-team/qingjian/pull/253) |
+| lolPing | Defer SendInput injections to the message loop (fixes Alt+click system-wide input freeze on Windows) | [#10](https://github.com/darrenprx/lolPing/pull/10) |
+| qingjian | fix(data): 补缺失常用词、称谓与符号层，清理人名碎片噪音 | [#256](https://github.com/qingjian-team/qingjian/pull/256) |
+| qingjian | docs(design): 同步 architecture.md 落后于代码的三处 | [#257](https://github.com/qingjian-team/qingjian/pull/257) |
+| echo | fix(middleware): prevent BodyLimit bypass with contract-compliant readers | [#3087](https://github.com/labstack/echo/pull/3087) |
+| aiohttp | Fix read_chunk() on body parts with a zero Content-Length | [#13760](https://github.com/aio-libs/aiohttp/pull/13760) |
+| typeshed | typing: make Protocol definition reflect runtime | [#16386](https://github.com/python/typeshed/pull/16386) |
+| black | Skip symlink tests when the platform forbids creating one | [#5390](https://github.com/psf/black/pull/5390) |
+| psycopg | docs: warn about sequential scans on out-of-range integer literals in sql.Literal | [#1400](https://github.com/psycopg/psycopg/pull/1400) |
+| celery | Document interaction between rate_limit and countdown/eta | [#10595](https://github.com/celery/celery/pull/10595) |
 
 </details>
+<!-- OSS-PRS:END -->
 
 ### 🛠️ 我的项目
 
