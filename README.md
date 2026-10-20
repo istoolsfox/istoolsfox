@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://toolsfox.top">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI+Agent+应用工程师;Python+%2F+Rust+%2F+Go+%2F+Flutter;12+个+PR+已合并进上游开源项目;正在造一个自己的全知+Agent" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI%20Agent%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%3BPython%20%2F%20Rust%20%2F%20Go%20%2F%20Flutter%3B12%20%E4%B8%AA%20PR%20%E5%B7%B2%E5%90%88%E5%B9%B6%E8%BF%9B%E4%B8%8A%E6%B8%B8%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%3B%E6%AD%A3%E5%9C%A8%E9%80%A0%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%A8%E7%9F%A5%20Agent" alt="typing" />
   </a>
 </p>
 
@@ -91,14 +91,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=istoolsfox&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a" width="48%" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=istoolsfox&hide_border=true&locale=cn&theme=github-dark-blue&card_width=430">
-  <img src="https://streak-stats.demolab.com?user=istoolsfox&hide_border=true&locale=cn&card_width=430" width="48%" alt="streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=istoolsfox&hide_border=true&locale=zh-cn&theme=github-dark-blue&card_width=430">
+  <img src="https://streak-stats.demolab.com?user=istoolsfox&hide_border=true&locale=zh-cn&card_width=430" width="48%" alt="streak" />
 </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=istoolsfox&hide_border=true&theme=react-dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=istoolsfox&hide_border=true" width="100%" alt="activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=istoolsfox&theme=github-dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=istoolsfox&theme=github" width="100%" alt="productive time" />
 </picture>
 
 </details>
