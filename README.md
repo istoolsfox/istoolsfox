@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://toolsfox.top">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI%20Agent%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%3BPython%20%2F%20Rust%20%2F%20Go%20%2F%20Flutter%3B%E6%8C%81%E7%BB%AD%E4%B8%BA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81%3B%E6%AD%A3%E5%9C%A8%E9%80%A0%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%A8%E7%9F%A5%20Agent" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=21&pause=1500&center=true&vCenter=true&width=640&lines=AI%20Agent%20%E5%BA%94%E7%94%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%3BPython%20%2F%20Rust%20%2F%20Go%20%2F%20Flutter%3B%E6%8C%81%E7%BB%AD%E4%B8%BA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E4%BB%A3%E7%A0%81%3B%E5%96%9C%E6%AC%A2%E9%80%A0%E5%B7%A5%E5%85%B7%E4%B9%9F%E5%81%9A%E6%B8%B8%E6%88%8F" alt="typing" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
   <a href="https://toolsfox.top/net-annals/"><img src="https://img.shields.io/badge/作品-中国互联网编年史-8250DF?style=for-the-badge" alt="net-annals" /></a>
 </p>
 
-- 🔭 在做：个人全知 Agent（数字孪生助理）、[中国互联网编年史](https://toolsfox.top/net-annals/)（Three.js 星河可视化，从 1987 年第一封邮件到今天）
+- 🔭 在做：[中国互联网编年史](https://toolsfox.top/net-annals/)（Three.js 星河可视化，从 1987 年第一封邮件到今天）
 - 🌱 在学：Rust（练手项目：[青简输入法](https://github.com/qingjian-team/qingjian)，已有多个 PR 被合并）
 - 📫 找我：[博客 toolsfox.top](https://toolsfox.top)
 
