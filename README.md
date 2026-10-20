@@ -53,12 +53,24 @@
 ### 🛠️ 我的项目
 
 <p align="center">
-<a href="https://github.com/istoolsfox/refinery-skill"><img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=refinery-skill&hide_border=true" width="49%" alt="refinery-skill" /></a>
-<a href="https://github.com/istoolsfox/qilefang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=qilefang&hide_border=true" width="49%" alt="qilefang" /></a>
+<a href="https://github.com/istoolsfox/refinery-skill"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=refinery-skill&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=9ca3af">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=refinery-skill&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a" width="49%" alt="refinery-skill" />
+</picture></a>
+<a href="https://github.com/istoolsfox/qilefang"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=qilefang&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=9ca3af">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=qilefang&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a" width="49%" alt="qilefang" />
+</picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/istoolsfox/house-radar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=house-radar&hide_border=true" width="49%" alt="house-radar" /></a>
-<a href="https://github.com/istoolsfox/llm-script-factory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=llm-script-factory&hide_border=true" width="49%" alt="llm-script-factory" /></a>
+<a href="https://github.com/istoolsfox/house-radar"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=house-radar&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=9ca3af">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=house-radar&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a" width="49%" alt="house-radar" />
+</picture></a>
+<a href="https://github.com/istoolsfox/llm-script-factory"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=llm-script-factory&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=79c0ff&text_color=9ca3af">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=istoolsfox&repo=llm-script-factory&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=57606a" width="49%" alt="llm-script-factory" />
+</picture></a>
 </p>
 
 ### ⚙️ 技能徽章墙
