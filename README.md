@@ -21,10 +21,11 @@
 
 <!-- OSS-PRS:START -->
 <details open>
-<summary><h3>🧩 开源贡献 · 21 个 PR 已合并</h3></summary>
+<summary><h3>🧩 开源贡献 · 22 个 PR 已合并</h3></summary>
 
 | 上游项目 | 我的改动 | PR |
 |---|---|---|
+| qiaomu-jot | 加「空选时收录剪贴板」开关（Closes #5） | [#6](https://github.com/joeseesun/qiaomu-jot/pull/6) |
 | lolPing | 设置项：允许文本组合键与自定义触发键共用一个键（修复 #100） | [#101](https://github.com/darrenprx/lolPing/pull/101) |
 | lolPing | feat(emotes): send the chosen effect with the emote | [#92](https://github.com/darrenprx/lolPing/pull/92) |
 | lolPing | feat(emotes): give imported emotes selectable signature effects | [#90](https://github.com/darrenprx/lolPing/pull/90) |
